@@ -1,0 +1,14 @@
+D:\Microsoft Visual Studio\Projetos\Aula146ExFxMetodosAbstratos\Aula146ExFxMetodosAbstratos\bin\Debug\net7.0\Aula146ExFxMetodosAbstratos.exe
+D:\Microsoft Visual Studio\Projetos\Aula146ExFxMetodosAbstratos\Aula146ExFxMetodosAbstratos\bin\Debug\net7.0\Aula146ExFxMetodosAbstratos.deps.json
+D:\Microsoft Visual Studio\Projetos\Aula146ExFxMetodosAbstratos\Aula146ExFxMetodosAbstratos\bin\Debug\net7.0\Aula146ExFxMetodosAbstratos.runtimeconfig.json
+D:\Microsoft Visual Studio\Projetos\Aula146ExFxMetodosAbstratos\Aula146ExFxMetodosAbstratos\bin\Debug\net7.0\Aula146ExFxMetodosAbstratos.dll
+D:\Microsoft Visual Studio\Projetos\Aula146ExFxMetodosAbstratos\Aula146ExFxMetodosAbstratos\bin\Debug\net7.0\Aula146ExFxMetodosAbstratos.pdb
+D:\Microsoft Visual Studio\Projetos\Aula146ExFxMetodosAbstratos\Aula146ExFxMetodosAbstratos\obj\Debug\net7.0\Aula146ExFxMetodosAbstratos.GeneratedMSBuildEditorConfig.editorconfig
+D:\Microsoft Visual Studio\Projetos\Aula146ExFxMetodosAbstratos\Aula146ExFxMetodosAbstratos\obj\Debug\net7.0\Aula146ExFxMetodosAbstratos.AssemblyInfoInputs.cache
+D:\Microsoft Visual Studio\Projetos\Aula146ExFxMetodosAbstratos\Aula146ExFxMetodosAbstratos\obj\Debug\net7.0\Aula146ExFxMetodosAbstratos.AssemblyInfo.cs
+D:\Microsoft Visual Studio\Projetos\Aula146ExFxMetodosAbstratos\Aula146ExFxMetodosAbstratos\obj\Debug\net7.0\Aula146ExFxMetodosAbstratos.csproj.CoreCompileInputs.cache
+D:\Microsoft Visual Studio\Projetos\Aula146ExFxMetodosAbstratos\Aula146ExFxMetodosAbstratos\obj\Debug\net7.0\Aula146ExFxMetodosAbstratos.dll
+D:\Microsoft Visual Studio\Projetos\Aula146ExFxMetodosAbstratos\Aula146ExFxMetodosAbstratos\obj\Debug\net7.0\refint\Aula146ExFxMetodosAbstratos.dll
+D:\Microsoft Visual Studio\Projetos\Aula146ExFxMetodosAbstratos\Aula146ExFxMetodosAbstratos\obj\Debug\net7.0\Aula146ExFxMetodosAbstratos.pdb
+D:\Microsoft Visual Studio\Projetos\Aula146ExFxMetodosAbstratos\Aula146ExFxMetodosAbstratos\obj\Debug\net7.0\Aula146ExFxMetodosAbstratos.genruntimeconfig.cache
+D:\Microsoft Visual Studio\Projetos\Aula146ExFxMetodosAbstratos\Aula146ExFxMetodosAbstratos\obj\Debug\net7.0\ref\Aula146ExFxMetodosAbstratos.dll
